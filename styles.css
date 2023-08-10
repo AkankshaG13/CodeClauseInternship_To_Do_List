@@ -1,0 +1,25 @@
+body{
+    background-color: azure;
+}
+/* #cv-form
+{
+    display: none;
+} */
+#cv-template
+{
+    display: none;
+}
+.image
+{
+    /* border-radius: 50%; */
+    width: 300px;
+   
+}
+.background{
+    background-color:navy;
+    color: white;
+}
+#btn{
+    text-align: center;
+    
+}
